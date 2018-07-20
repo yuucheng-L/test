@@ -1,0 +1,6 @@
+*.ipynb
+*.jpg
+*.jpeg
+*.png
+.ipynb_checkpoints/
+.vscodes/
